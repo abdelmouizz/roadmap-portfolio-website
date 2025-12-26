@@ -1,2 +1,2 @@
-# Basic-HTML-Website
-This is a solution to the [Single Page HTML CV](https://roadmap.sh/projects/basic-html-website).
+# Portfolio-Website
+This is a solution to the [Portfolio Website](https://roadmap.sh/projects/portfolio-website).
